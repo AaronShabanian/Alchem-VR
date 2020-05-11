@@ -11,6 +11,6 @@ Target Platform: Targeted for android use with google cardboard to allow the ful
 More information can be found at GCIPoster(1).pdf 
 <br/>
 <br/>
-Video Demonstration: 
+Video Demonstration: https://youtu.be/VD-6LfXI6Zk
 <br/> <br/>
 To run, download AlchemVr.apk to your android device follow on screen main menu prompts, then insert your device into a google cardboard device. 
