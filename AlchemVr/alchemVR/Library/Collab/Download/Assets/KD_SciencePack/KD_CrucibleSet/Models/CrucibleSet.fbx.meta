@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: b548eb532bb1601478e61963d75ed4e4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Crucible_Graphite_40mm
+    100002: Crucible_Graphite_40mmBase
+    100004: Crucible_Graphite_40mmLid
+    100006: Crucible_Graphite_60mm
+    100008: Crucible_Graphite_60mmBase
+    100010: Crucible_Graphite_60mmLid
+    100012: Crucible_Porcelein_100mL
+    100014: Crucible_Porcelein_100mLBase
+    100016: Crucible_Porcelein_100mLTop
+    100018: Crucible_Porcelein_15mL
+    100020: Crucible_Porcelein_15mLBase
+    100022: Crucible_Porcelein_15mLTop
+    100024: //RootNode
+    100026: CrucibleTong_9inch_Bolt
+    100028: CrucibleTong_9inch_LeftHandle
+    100030: CrucibleTong_9inch_RightHandle
+    100032: CrucibleTongs_9Inch
+    100034: Pipestem_Triangle
+    100036: StirringRod_Graphite12inch
+    100038: StirringRod_Graphite6inch
+    400000: Crucible_Graphite_40mm
+    400002: Crucible_Graphite_40mmBase
+    400004: Crucible_Graphite_40mmLid
+    400006: Crucible_Graphite_60mm
+    400008: Crucible_Graphite_60mmBase
+    400010: Crucible_Graphite_60mmLid
+    400012: Crucible_Porcelein_100mL
+    400014: Crucible_Porcelein_100mLBase
+    400016: Crucible_Porcelein_100mLTop
+    400018: Crucible_Porcelein_15mL
+    400020: Crucible_Porcelein_15mLBase
+    400022: Crucible_Porcelein_15mLTop
+    400024: //RootNode
+    400026: CrucibleTong_9inch_Bolt
+    400028: CrucibleTong_9inch_LeftHandle
+    400030: CrucibleTong_9inch_RightHandle
+    400032: CrucibleTongs_9Inch
+    400034: Pipestem_Triangle
+    400036: StirringRod_Graphite12inch
+    400038: StirringRod_Graphite6inch
+    2100000: Crucible_Porc_15mlBase
+    2100002: Crucible_Porc_15mlTop
+    2100004: Crucible_Porc_100mlBase
+    2100006: Crucible_Porc_100mlTop
+    2100008: Crucible_Graph_40mmBase
+    2100010: Crucible_Graph_40mmTop
+    2100012: Crucible_Graph_60mmBase
+    2100014: Crucible_Graph_60mmTop
+    2100016: rod6inchMat
+    2100018: Rod12inchMat
+    2100020: PipestemClay
+    2100022: CrucibleTongs_RightH
+    2100024: CrucibleTongs_LeftH
+    2100026: CrucibleTongs_Bolt
+    2300000: Crucible_Graphite_40mmBase
+    2300002: Crucible_Graphite_40mmLid
+    2300004: Crucible_Graphite_60mmBase
+    2300006: Crucible_Graphite_60mmLid
+    2300008: Crucible_Porcelein_100mLBase
+    2300010: Crucible_Porcelein_100mLTop
+    2300012: Crucible_Porcelein_15mLBase
+    2300014: Crucible_Porcelein_15mLTop
+    2300016: CrucibleTong_9inch_Bolt
+    2300018: CrucibleTong_9inch_LeftHandle
+    2300020: CrucibleTong_9inch_RightHandle
+    2300022: Pipestem_Triangle
+    2300024: StirringRod_Graphite12inch
+    2300026: StirringRod_Graphite6inch
+    3300000: Crucible_Graphite_40mmBase
+    3300002: Crucible_Graphite_40mmLid
+    3300004: Crucible_Graphite_60mmBase
+    3300006: Crucible_Graphite_60mmLid
+    3300008: Crucible_Porcelein_100mLBase
+    3300010: Crucible_Porcelein_100mLTop
+    3300012: Crucible_Porcelein_15mLBase
+    3300014: Crucible_Porcelein_15mLTop
+    3300016: CrucibleTong_9inch_Bolt
+    3300018: CrucibleTong_9inch_LeftHandle
+    3300020: CrucibleTong_9inch_RightHandle
+    3300022: Pipestem_Triangle
+    3300024: StirringRod_Graphite12inch
+    3300026: StirringRod_Graphite6inch
+    4300000: Crucible_Porcelein_15mLBase
+    4300002: Crucible_Porcelein_15mLTop
+    4300004: Crucible_Porcelein_100mLBase
+    4300006: Crucible_Porcelein_100mLTop
+    4300008: Crucible_Graphite_40mmBase
+    4300010: Crucible_Graphite_40mmLid
+    4300012: Crucible_Graphite_60mmBase
+    4300014: Crucible_Graphite_60mmLid
+    4300016: StirringRod_Graphite6inch
+    4300018: StirringRod_Graphite12inch
+    4300020: Pipestem_Triangle
+    4300022: CrucibleTong_9inch_RightHandle
+    4300024: CrucibleTong_9inch_LeftHandle
+    4300026: CrucibleTong_9inch_Bolt
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

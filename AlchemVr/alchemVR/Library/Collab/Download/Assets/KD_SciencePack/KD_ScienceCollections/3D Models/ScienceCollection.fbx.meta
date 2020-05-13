@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: cfefa56cf146fcf439a7dd3ca55ecd47
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bottle
+    100002: Bottle 1
+    100004: Bottle 2
+    100006: Bottle 3
+    100008: EvoparotingDish
+    100010: Funnel
+    100012: GasBottle_1000ml
+    100014: GasBottle_125ml
+    100016: GasBottle_250ml
+    100018: GasBottle_500ml
+    100020: Lid
+    100022: Lid 1
+    100024: Lid 2
+    100026: Lid 3
+    100028: //RootNode
+    100030: Scoopula
+    100032: Spatula
+    100034: WashBottle
+    100036: WashBottle 1
+    100038: WashBottleLid
+    100040: WashBottleStraw
+    400000: Bottle
+    400002: Bottle 1
+    400004: Bottle 2
+    400006: Bottle 3
+    400008: EvoparotingDish
+    400010: Funnel
+    400012: GasBottle_1000ml
+    400014: GasBottle_125ml
+    400016: GasBottle_250ml
+    400018: GasBottle_500ml
+    400020: Lid
+    400022: Lid 1
+    400024: Lid 2
+    400026: Lid 3
+    400028: //RootNode
+    400030: Scoopula
+    400032: Spatula
+    400034: WashBottle
+    400036: WashBottle 1
+    400038: WashBottleLid
+    400040: WashBottleStraw
+    2100000: CS_125mlGBLid
+    2100002: CS_125mlGasBottle
+    2100004: CS_250mlGBLid
+    2100006: CS_250mlGasBottle
+    2100008: CS_500mlGBLid
+    2100010: CS_500MlGasBottle
+    2100012: CS_1lGBLid
+    2100014: CS_1LGasBottle
+    2100016: CS_WashTop
+    2100018: CS_WashStraw
+    2100020: CS_WashBottle
+    2100022: CS_EvoDish
+    2100024: CS_Funnel
+    2100026: CS_Scoopula
+    2100028: CS_Spatula
+    2300000: Bottle
+    2300002: Bottle 1
+    2300004: Bottle 2
+    2300006: Bottle 3
+    2300008: EvoparotingDish
+    2300010: Funnel
+    2300012: Lid
+    2300014: Lid 1
+    2300016: Lid 2
+    2300018: Lid 3
+    2300020: Scoopula
+    2300022: Spatula
+    2300024: WashBottle 1
+    2300026: WashBottleLid
+    2300028: WashBottleStraw
+    3300000: Bottle
+    3300002: Bottle 1
+    3300004: Bottle 2
+    3300006: Bottle 3
+    3300008: EvoparotingDish
+    3300010: Funnel
+    3300012: Lid
+    3300014: Lid 1
+    3300016: Lid 2
+    3300018: Lid 3
+    3300020: Scoopula
+    3300022: Spatula
+    3300024: WashBottle 1
+    3300026: WashBottleLid
+    3300028: WashBottleStraw
+    4300000: Lid
+    4300002: Bottle
+    4300004: Lid
+    4300006: Bottle
+    4300008: Lid
+    4300010: Bottle
+    4300012: Lid
+    4300014: Bottle
+    4300016: WashBottleLid
+    4300018: WashBottleStraw
+    4300020: WashBottle
+    4300022: EvoparotingDish
+    4300024: Funnel
+    4300026: Scoopula
+    4300028: Spatula
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

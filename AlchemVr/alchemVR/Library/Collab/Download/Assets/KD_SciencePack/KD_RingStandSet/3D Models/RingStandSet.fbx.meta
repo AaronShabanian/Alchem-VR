@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 8a81e920897927d488cab8fee6c0c9d8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Burette_100ml
+    100002: Burette_Body
+    100004: Burette_Tap
+    100006: GripEnd
+    100008: GripRod
+    100010: GripRodScrew
+    100012: Handler_Screw_Back
+    100014: Handler_Screw_Front
+    100016: HeightHandler
+    100018: HeightHandler_Body
+    100020: IronRingAttachment
+    100022: //RootNode
+    100024: RodStand
+    100026: RodStandBase
+    100028: UtilityClamp
+    100030: WireGauze
+    400000: Burette_100ml
+    400002: Burette_Body
+    400004: Burette_Tap
+    400006: GripEnd
+    400008: GripRod
+    400010: GripRodScrew
+    400012: Handler_Screw_Back
+    400014: Handler_Screw_Front
+    400016: HeightHandler
+    400018: HeightHandler_Body
+    400020: IronRingAttachment
+    400022: //RootNode
+    400024: RodStand
+    400026: RodStandBase
+    400028: UtilityClamp
+    400030: WireGauze
+    2100000: RS_Base
+    2100002: RS_TopScrew
+    2100004: RS_HH_Body
+    2100006: RS_BackScrew
+    2100008: RS_IronRing
+    2100010: RS_GripRod
+    2100012: RS_LongScrew
+    2100014: RS_GripEnd
+    2100016: RS_WireGauze
+    2100018: RS_BuretteTap
+    2100020: RS_BuretteBody
+    2300000: Burette_Body
+    2300002: Burette_Tap
+    2300004: GripEnd
+    2300006: GripRod
+    2300008: GripRodScrew
+    2300010: Handler_Screw_Back
+    2300012: Handler_Screw_Front
+    2300014: HeightHandler_Body
+    2300016: IronRingAttachment
+    2300018: RodStandBase
+    2300020: WireGauze
+    3300000: Burette_Body
+    3300002: Burette_Tap
+    3300004: GripEnd
+    3300006: GripRod
+    3300008: GripRodScrew
+    3300010: Handler_Screw_Back
+    3300012: Handler_Screw_Front
+    3300014: HeightHandler_Body
+    3300016: IronRingAttachment
+    3300018: RodStandBase
+    3300020: WireGauze
+    4300000: RodStandBase
+    4300002: Handler_Screw_Front
+    4300004: HeightHandler_Body
+    4300006: Handler_Screw_Back
+    4300008: IronRingAttachment
+    4300010: GripRod
+    4300012: GripRodScrew
+    4300014: GripEnd
+    4300016: WireGauze
+    4300018: Burette_Tap
+    4300020: Burette_Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
