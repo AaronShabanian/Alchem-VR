@@ -8,7 +8,7 @@ Technologies: Made with Unity using C# programming language. Unity Collab was us
 Target Platform: Targeted for android use with google cardboard to allow the full virtual reality experience. 
 <br/>
 <br/>
-More information can be found at GCIPoster(1).pdf 
+More information can be found at GCIPoster(2).pdf 
 <br/>
 <br/>
 Video Demonstration: https://youtu.be/VD-6LfXI6Zk
