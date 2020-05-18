@@ -13,4 +13,4 @@ More information can be found at GCIPoster(2).pdf
 <br/>
 Video Demonstration: https://youtu.be/VD-6LfXI6Zk
 <br/> <br/>
-To run, download AlchemVr.apk to your android device follow on screen main menu prompts, then insert your device into a google cardboard device. 
+To run, download AlchemVr.apk or download from google play store to your android device follow on screen main menu prompts, then insert your device into a google cardboard device. 
