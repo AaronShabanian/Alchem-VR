@@ -17,5 +17,7 @@ More information can be found at GCIPoster(2).pdf
 ## Video Demonstration:
 https://youtu.be/VD-6LfXI6Zk
 <br/> <br/>
+## Blog Feature:
+https://blogs.chapman.edu/gci/2020/05/11/alchem-vr/
 ## How to Use
 To run, download AlchemVr.apk or download from google play store to your android device follow on screen main menu prompts, then insert your device into a google cardboard device. 
